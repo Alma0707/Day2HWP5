@@ -6,5 +6,7 @@ public class TestHW5 {
 		
 		System.out.println("Stash & Push");
 	}
-	
+	public void firstName() {
+		System.out.println("John");
+	}
 }
